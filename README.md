@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ### Hi there 👋
 # Abhijeet Rana
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=TheMainManIND&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=AbhijeetDotexe&show_icons=true&theme=tokyonight" 
 />
