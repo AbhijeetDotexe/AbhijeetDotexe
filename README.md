@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img 
    src="https://github-readme-stats.vercel.app/api?username=AbhijeetDotexe&show_icons=true&theme=tokyonight" 
 />
-<img
+<!-- <img
      src="https://github-readme-stats.vercel.app/api?username=AbhijeetDotexe&theme=dark&show_icons=true"
  />
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetDotexe&theme=dark&show_icons=true)
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetDotexe&theme=dark&show_icons=true) -->
